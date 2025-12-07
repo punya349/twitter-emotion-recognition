@@ -24,7 +24,7 @@ This repository contains the full code, evaluation pipeline, comparison metrics,
 ---
 
 # 📌 Table of Contents
-- [Project Overview](#project-overview)  
+- [Project Overview](#-project-overview)  
 - [Dataset](#dataset)  
 - [Emotion Classes](#emotion-classes)  
 - [Model Architectures](#model-architectures)  
