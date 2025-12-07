@@ -54,8 +54,7 @@ The project includes:
 - ✔️ Comprehensive visualizations  
 
 The entire implementation is contained inside:  
-📄 **tweet emotion recognition.py** :contentReference[oaicite:0]{index=0}
-
+📄 **tweet emotion recognition.py** 
 ---
 
 # 📊 Dataset
@@ -227,9 +226,7 @@ All visualizations are created using Matplotlib and displayed directly during ex
 # 📁 Project Structure
 Twitter-Emotion-Recognition/
 │── tweet emotion recognition.py # Full end-to-end implementation
-│── README.md # Documentation
-│── results/ # (Optional) Save plots manually if needed
-└── models/ # (Optional) Save models if exporting
+└── README.md # Documentation
 
 ---
 
@@ -251,7 +248,6 @@ This file contains:
 - Model comparison tables  
 - Visualizations  
 
-Everything runs automatically — no manual steps required.
 
 ---
 
