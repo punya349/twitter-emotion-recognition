@@ -25,16 +25,16 @@ This repository contains the full code, evaluation pipeline, comparison metrics,
 
 # 📌 Table of Contents
 - [Project Overview](#-project-overview)  
-- [Dataset](#dataset)  
-- [Emotion Classes](#emotion-classes)  
-- [Model Architectures](#model-architectures)  
-- [Training Setup](#training-setup)  
-- [Results Summary](#results-summary)  
-- [Full Model Comparison](#full-model-comparison)  
-- [Visualizations](#visualizations)  
-- [Use-Case Recommendations](#use-case-recommendations)  
-- [Project Structure](#project-structure)  
-- [How to Run](#how-to-run)
+- [Dataset](#-dataset)  
+- [Emotion Classes](#-emotion-classes)  
+- [Model Architectures](#-model-architectures)  
+- [Training Setup](#-training-setup)  
+- [Results Summary](#-results-summary)  
+- [Full Model Comparison](#-full-model-comparison)  
+- [Visualizations](#-visualizations)  
+- [Use-Case Recommendations](#-use-case-recommendations)  
+- [Project Structure](#-project-structure)  
+- [How to Run](#-how-to-run)
 
 ---
 
