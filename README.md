@@ -32,7 +32,7 @@ This repository contains the full code, evaluation pipeline, comparison metrics,
 - [Results Summary](#-results-summary)  
 - [Full Model Comparison](#-full-model-comparison)  
 - [Visualizations](#-visualizations)  
-- [Use-Case Recommendations](#-use-case-recommendations)  
+- [Use-Case Recommendations](#-use-case-recommendations-included-in-code-output)  
 - [Project Structure](#-project-structure)  
 - [How to Run](#-how-to-run)
 
