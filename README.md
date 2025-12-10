@@ -220,8 +220,8 @@ The script prints:
 ---
 
 # 📄 Project Report  
-Download and view the complete project report (PDF) containing methodology, detailed results, tables, and graphs here:  
-👉 **[Download & View Report]([[docs/report.pdf](https://docs.google.com/document/d/1uaZi6xD16Hv_5GaH6mTZF2B1FznTtJIq-C40tKcn9Zg/edit?usp=sharing)](https://docs.google.com/document/d/1uaZi6xD16Hv_5GaH6mTZF2B1FznTtJIq-C40tKcn9Zg/edit?usp=sharing))**  
+Download and view the complete project report here:  
+👉 **[Download & View Report](https://docs.google.com/document/d/1uaZi6xD16Hv_5GaH6mTZF2B1FznTtUIq-C40tKcn9Zg/edit?usp=sharing)**
 
 ---
 
